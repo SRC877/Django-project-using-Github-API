@@ -9,7 +9,6 @@ http://127.0.0.1:8000/app/,
 http://127.0.0.1:8000/app/test/,   
 http://127.0.0.1:8000/app/profile/ .
 
-When you navigate to the url http://127.0.0.1:8000/app/profile/, it asks you for a github user name. Then it shows the corresponding data
-data against that specific username.
+When you navigate to the url http://127.0.0.1:8000/app/profile/, it asks you for a github user name. Then it shows the corresponding data against that specific username.
 
 This project uses Python and Django for backend, and for front-end we have used JavaScript,Bower and Twitter Bootstrap.
